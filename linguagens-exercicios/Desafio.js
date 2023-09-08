@@ -1,4 +1,4 @@
-//"gets": lê UMA linha com dado(s) de ebtrada (inputs) do usuário
+//"gets": lê UMA linha com dado(s) de entrada (inputs) do usuário
 
 //Lê os valores de Entrada:
 const valorSalario = parseFloat(gets());
