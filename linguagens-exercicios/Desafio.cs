@@ -13,9 +13,13 @@ public class Desafio
         {
             //Atribuiu a aliquota de 5% mediante o salário:
             valorImposto = 0.05F * valorSalario;
-        }else if (valorSalario >= 1100.01 && valorSalario <= 2500.00){ 
+        }
+        else if (valorSalario >= 1100.01 && valorSalario <= 2500.00)
+        { 
             valorImposto = 0.10F * valorSalario;
-        } else {
+        }
+        else 
+        {
             valorImposto = 0.15F * valorSalario;
         }
 
