@@ -45,7 +45,7 @@ public class Estabelecimento {
 		//esta ação é muito sigilosa, qua tal ser privada ?
 		cliente.consultarSaldoAplicativo();
 		
-		//já pensou os clientes ouvindo que o gás acabou ?
+		//já pensou os clientes ouvindo que o gás acabou?
 		cozinheiro.pedirParaTrocarGas(atendente);
 		cozinheiro.pedirParaTrocarGas(almoxarife);
 		
