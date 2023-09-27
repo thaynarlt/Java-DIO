@@ -1,3 +1,4 @@
+package autodromo;
 public abstract class Veiculo {
     private String chassi;
     public String getChassi() {

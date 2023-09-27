@@ -1,3 +1,4 @@
+package autodromo;
 public class Carro extends Veiculo{
   
     public void ligar(){ //Como aqui está público, foi preciso apenas chamar um método em Autodromo.java para usar os privados.
