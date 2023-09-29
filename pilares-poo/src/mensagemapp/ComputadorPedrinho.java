@@ -1,5 +1,8 @@
 package mensagemapp;
 
+import apps.FacebookMessenger;
+import apps.MSNMessenger;
+import apps.Telegram;
 
 //Simulação do uso da classe MSNMessenger
 

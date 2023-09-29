@@ -1,4 +1,4 @@
-package mensagemapp;
+package apps;
 
 public class MSNMessenger extends ServicoMensagemInstantanea{
 
