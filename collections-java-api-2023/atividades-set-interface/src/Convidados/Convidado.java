@@ -1,3 +1,4 @@
+package Convidados;
 import java.util.Objects;
 
 public class Convidado {
